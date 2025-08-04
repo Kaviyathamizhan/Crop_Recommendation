@@ -68,3 +68,4 @@ Prediction: "rice"
 ```
 ## Results:
 
+<img width="1916" height="988" alt="Image" src="https://github.com/user-attachments/assets/1622e3bb-9b24-4818-b981-c0df03c385dd" />
